@@ -1,0 +1,42 @@
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    color: black; /* Text color */
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: inherit;
+    margin-right: 10px; 
+  }
+  
+  /* Styling for the search bar */
+  .navbar .search-bar {
+    margin-right: 20px; 
+    border-color: black;
+    padding-left: 20px;
+  
+  }
+  
+  /* Styling for the icon links */
+  .navbar .icon-links {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar .icon-links a {
+    margin-right: 20px; 
+    color: white; 
+  }
+  
+  /* Hover effect for links */
+  .navbar a:hover {
+    text-decoration: underline;
+    color: brown;
+  }
+  .fathersday{
+    color: red;
+  }

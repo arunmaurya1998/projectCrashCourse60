@@ -1,0 +1,99 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Men's Joggers",
+        "img": "https://images.lululemon.com/is/image/lululemon/LM3EZWS_064494_1?$product_tile$&wid=320&op_usm=0.8,1,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+        "price": "$30"
+      },
+      {
+        "id": 2,
+        "title": "Women's Yoga Pants",
+        "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSG3FTAVLR0Ry-ONCUk0sjrQp4DnATMD8K5tY91S1HryApOEp6Uo9N6OvSbZhctu6nwKs7Ncq_qwoDsumE7oIfqwcSFdC9qzmJMjDCwrj55m2-YvCUYA7DR",
+        "price": "$31.00"
+      },
+      {
+        "id": 3,
+        "title": "Men's T-Shirt",
+        "img": "https://images.lululemon.com/is/image/lululemon/LM3DK7S_8206_1?$product_tile$&wid=320&op_usm=0.8,1,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+        "price": "$32.00"
+      },
+      {
+        "id": 4,
+        "title": "Women's Sports Bra",
+        "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRkP-crjLYuRjmk1kHWdFm6iBqyvO0gGOiq1khp5sM4lwe9w7Yb6fEwp0v-HqR5eg9LfFZQ4HBWnousR3dlSszQCEgtlyPhWjjYE1FFeow",
+        "price": "$33.00"
+      },
+      {
+        "id": 5,
+        "title": "Unisex Running Shoes",
+        "img": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/bff2326de0484ab48617b9e609b02faa_9366/adizero-prime-x-2.0-strung-shoes.jpg",
+        "price": "$34.00"
+      },
+      {
+        "id": 6,
+        "title": "Men's Hoodie",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxlC-FO2F5Yo-8AsIqFgW8vFaGMQPbyn9Qdw&s",
+        "price": "$35.00"
+      },
+      {
+        "id": 7,
+        "title": "Women's Leggings",
+        "img": "https://m.media-amazon.com/images/I/51o1War+FyL._AC_UY1100_.jpg",
+        "price": "$36.00"
+      },
+      {
+        "id": 8,
+        "title": "Men's Shorts",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2wQ7lksouYGDcr2AcTk3G5maX2D7X9YVwUw&s",
+        "price": "$37.00"
+      },
+      {
+        "id": 9,
+        "title": "Women's Tank Top",
+        "img": "https://rukminim2.flixcart.com/image/850/1000/l4yi7bk0/camisole-slip/b/t/y/s-3-women-sando-vest-tank-top-camisole-tops-for-girls-girl-original-imagfqsmytvzszg9.jpeg?q=90&crop=false",
+        "price": "$38.00"
+      },
+      {
+        "id": 10,
+        "title": "Unisex Cap",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYPOfP7XyzdR5VF7B8V1ElB9daFtelC_PTRQ&s",
+        "price": "$39.00"
+      },
+      {
+        "id": 11,
+        "title": "Men's Sweatshirt",
+        "img": "https://assets.ajio.com/medias/sys_master/root/20230831/Om9G/64ef9636afa4cf41f59905e9/-473Wx593H-466515214-black-MODEL.jpg",
+        "price": "$40.00"
+      },
+      {
+        "id": 12,
+        "title": "Women's Jacket",
+        "img": "https://rukminim2.flixcart.com/image/850/1000/xif0q/jacket/r/p/m/l-no-oa-0005-carrot-m-ellipse-original-imagpfpz9hrvvddq.jpeg?q=90&crop=false",
+        "price": "$41.00"
+      },
+      {
+        "id": 13,
+        "title": "Men's Polo",
+        "img": "https://m.media-amazon.com/images/I/517gqlQ5kJL._AC_UY1100_.jpg",
+        "price": "$42.00"
+      },
+      {
+        "id": 14,
+        "title": "Women's Skirt",
+        "img": "https://m.media-amazon.com/images/I/71Eul5xft8L._AC_UY1100_.jpg",
+        "price": "$43.00"
+      },
+      {
+        "id": 15,
+        "title": "Unisex Socks",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREG9LfgnoTjIZmdQG18nFVcPSMCJAgZmnnpg&s",
+        "price": "$44.00"
+      }
+      
+      
+    ]
+  
+}
+  
+  
